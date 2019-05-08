@@ -8,5 +8,5 @@ Check out my [Rummoli game code](https://madebymilly.github.io/rummoli), Object 
 (Work in progress!)
 
 ## Blackjack
-Check out my [Blackjack code](https://madebymilly.github.io/blackjack), Functional Javascript (ES6) (pure, no jQuery! and Webpack/Babel)
+Check out my [Blackjack code](https://madebymilly.github.io/blackjack), Functional Javascript (ES6) (and Webpack/Babel)
 (Work in progress!)
