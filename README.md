@@ -1,5 +1,8 @@
 # Code MadebyMilly
 
+## Horizontal sliding website
+Check out my [Horizontal sliding website code](https://github.com/madebymilly/horizontal-slider/) and my [Horizontal sliding website](https://madebymilly.github.io/horizontal-slider/), HTML, CSS, pure JS (ES6).
+
 ## Sliding Puzzle
 Check out my [Sliding Puzzle code](https://github.com/madebymilly/slidingpuzzle/) and my [Sliding Puzzle game in the browser](https://madebymilly.github.io/slidingpuzzle/), Object oriented Javascript (pure, no jQuery!)
 
