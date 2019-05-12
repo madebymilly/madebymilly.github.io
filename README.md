@@ -1,15 +1,17 @@
 # Code MadebyMilly
 
 ## Horizontal sliding website
-Check out my [Horizontal sliding website code](https://github.com/madebymilly/horizontal-slider/) and my [Horizontal sliding website](https://madebymilly.github.io/horizontal-slider/dist/), HTML, CSS, pure JS (ES6).
+[Horizontal sliding website code](https://github.com/madebymilly/horizontal-slider/): HTML, CSS, pure JS (ES6).
 
 ## Sliding Puzzle
-Check out my [Sliding Puzzle code](https://github.com/madebymilly/slidingpuzzle/) and my [Sliding Puzzle game in the browser](https://madebymilly.github.io/slidingpuzzle/), Object oriented Javascript (pure, no jQuery!)
+[Sliding Puzzle code](https://github.com/madebymilly/slidingpuzzle/): pure JS (ES6), no jQuery.
+[Sliding Puzzle game in the browser](https://madebymilly.github.io/slidingpuzzle/).
 
 ## Rummoli
-Check out my [Rummoli game code](https://github.com/madebymilly/rummoli/) and my [Rummoli game in the browser](https://madebymilly.github.io/rummoli/), Object oriented Javascript (pure, no jQuery!)
-(Work in progress!)
+[Rummoli game code](https://github.com/madebymilly/rummoli/): Object oriented Javascript (pure, no jQuery!)(Work in progress!).
+[Rummoli game in the browser](https://madebymilly.github.io/rummoli/).
+
 
 ## Blackjack
-Check out my [Blackjack code](https://github.com/madebymilly/blackjack/) and my [Blackjack game in the browser](https://madebymilly.github.io/blackjack/dist/), Functional Javascript (ES6) (and Webpack/Babel and a tiny bit of jQuery (oops!)
-(Work in progress!)
+[Blackjack code](https://github.com/madebymilly/blackjack/): Functional Javascript (ES6) (Webpack/Babel and a tiny bit of jQuery (oops!)(Work in progress!).
+[Blackjack game in the browser](https://madebymilly.github.io/blackjack/dist/).
