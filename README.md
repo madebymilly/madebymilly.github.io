@@ -2,6 +2,7 @@
 
 ## Horizontal sliding website
 [Horizontal sliding website code](https://github.com/madebymilly/horizontal-slider/): HTML, CSS, pure JS (ES6).
+[Horizontal sliding website](https://madebymilly.github.io/sliding-website/dist/).
 
 ## Sliding Puzzle
 [Sliding Puzzle code](https://github.com/madebymilly/slidingpuzzle/): pure JS (ES6), no jQuery.
