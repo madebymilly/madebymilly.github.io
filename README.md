@@ -20,7 +20,7 @@ Dit is een zelfstudie project uit 2016/2017. Om mijn skills in Javascript en OOP
 
 
 ## Blackjack
-Dit is een zelfstudie project uit 2018, object georienteerd begonnen. In maart/april 2019 wat functionele aanpassingen gemaakt, waardoor het de code wat overzichtelijker werd. Ook heb ik hier wat ES6 uitgeprobeerd. Er zit (uit gemak) nog wat jQuery in, doel is om dit er nog uit te halen. Het spel is nog niet af.
+Dit is een zelfstudie project uit 2018, object georienteerd begonnen. In maart/april 2019 wat functionele aanpassingen gemaakt, waardoor het de code wat overzichtelijker werd. Ook heb ik hier wat ES6 uitgeprobeerd. Er zit (uit gemak) nog wat jQuery in, doel is om dit er nog uit te halen. Het spel is nog niet af. Dit spel wordt nu opnieuw ontwikkeld in React.
 
 [Blackjack code](https://github.com/madebymilly/blackjack/): Functional Javascript (ES6) (Webpack/Babel and a tiny bit of jQuery (oops!)<br/>
 [Blackjack game in the browser](https://madebymilly.github.io/blackjack/dist/).
