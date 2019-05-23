@@ -13,7 +13,7 @@ Ter oefening, om beter te worden in Vanilla JS, heb ik een sliding puzzle game g
 [Sliding Puzzle game in the browser](https://madebymilly.github.io/slidingpuzzle/).
 
 ## Rummoli
-Dit is een zelfstudie project uit 2015/2015. Om mijn skills in Javascript en OOP te verbeteren. Het spel is nog niet af, maar ik heb er erg veel van geleerd. 
+Dit is een zelfstudie project uit 2015/2016. Om mijn skills in Javascript en OOP te verbeteren. Het spel is nog niet af, maar ik heb er erg veel van geleerd. 
 
 [Rummoli game code](https://github.com/madebymilly/rummoli/): Object oriented Javascript (pure, no jQuery!)<br/>
 [Rummoli game in the browser](https://madebymilly.github.io/rummoli/).
